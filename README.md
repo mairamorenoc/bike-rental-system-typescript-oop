@@ -89,4 +89,4 @@ O sistema foi dividido em classes para representar as principais entidades do do
 
 ## 📚 Observações
 
-Este projeto foi desenvolvido exclusivamente para fins educacionais, como parte de um trabalho sobre Desenvolvimento de Sistemas e Técnicas de Análise de Sistemas, não tendo como objetivo uso comercial ou em produção.
+Este projeto foi desenvolvido exclusivamente para fins educacionais, não tendo como objetivo uso comercial ou em produção.
