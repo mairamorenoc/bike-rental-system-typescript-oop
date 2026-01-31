@@ -79,12 +79,13 @@ O sistema foi dividido em classes para representar as principais entidades do do
 1. Certifique-se de ter o **Node.js** e o **TypeScript** instalados
 2. Clone o repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone [<url-do-repositorio>](https://github.com/mairamorenoc/bike-rental-system-typescript-oop.git)
 3. Compile o arquivo TypeScript:
     ```bash
-    tsc nomeDoArquivo.ts
+    tsc bikestore-system.ts
 4. Execute o arquivo JavaScript gerado:
-node nomeDoArquivo.js
+   ```bash
+   node bikestore-system.js
 
 ## 📚 Observações
 
